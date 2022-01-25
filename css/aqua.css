@@ -1,0 +1,16 @@
+.bg-light{background-color: #367374 !important;}
+.bg-light a{color:#fff !important;}
+.btn-success{background-image: linear-gradient(-180deg,#9fbf00,#80ab00 91%);}
+.btn-success{background-image: linear-gradient(-180deg,#9fbf00,#80ab00 91%);}
+
+.box_1, .box_2, .box_3{padding: 40px 30px;}
+
+.box_1{background: #367374; color:#fff;}
+
+.box_2{background: #000000; color:#fff;}
+
+.box_3{background: #92dad9; color:#fff;}
+
+.footer-copyright{background:#000; color:#fff;}
+
+.footer-copyright a{color:#fff;}

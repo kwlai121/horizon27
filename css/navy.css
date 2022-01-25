@@ -1,0 +1,13 @@
+
+.bg-light{background-color: #94c329 !important;}
+.bg-light a{color:#eee !important;}
+.btn-success{background-image: linear-gradient(-180deg,#9fbf00,#80ab00 91%);}
+.box_1, .box_2, .box_3{padding: 40px 30px;}
+
+.box_1{background: #053450; color:#fff;}
+
+.box_2{background: #94c329;}
+
+.box_3{background: #01507a; color:#fff;}
+
+.footer-copyright{background:#000; color:#fff;}

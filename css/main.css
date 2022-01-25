@@ -1,0 +1,59 @@
+
+
+
+body{
+
+      font-family: 'Bebas Neue', cursive;
+      background: url(../img/backgrounds/bg.jpg);
+
+      /* Background image is centered vertically and horizontally at all times */
+      background-position: center center;
+
+      /* Background image doesn't tile */
+      background-repeat: no-repeat;
+
+      /* Background image is fixed in the viewport so that it doesn't move when
+         the content's height is greater than the image's height */
+      background-attachment: fixed;
+
+      /* This is what makes the background image rescale based
+         on the container's size */
+      background-size: cover;
+
+      /* Set a background color that will be displayed
+         while the background image is loading */
+      background-color: #464646;
+
+}
+.bg-dark2{background-color: black; border-bottom: 1px solid red;}
+
+.btn-success{background-image: linear-gradient(-180deg,#9fbf00,#80ab00 91%);}
+.btn-success{background-image: linear-gradient(to right, #D31027 0%, #EA384D  51%, #D31027  100%)}
+.btn-success {
+            padding: 5px 20px 5px 20px;
+            margin: 10px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            display: block;
+          }
+
+          .btn-success:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+
+.btn-danger{transition: color .2s,background-color .2s,border-color .2s;}
+.box_1, .box_2, .box_3{padding: 40px 30px;}
+
+.box_1{background: #000; color:#fff;}
+
+.box_2{background: #eeeeee;}
+
+.box_3{background: #e41f28; color:#fff;}
+
+.footer-copyright{color:#fff;}
+.footer-copyright a{color:red;}
